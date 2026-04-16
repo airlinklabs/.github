@@ -4,4 +4,4 @@
  
 ### **Airlink Labs**
 
- `An simple server management panel made in typescript that gives you petrodactyl level control at a easier installation and customisation level`
+ `A simple server management panel made in typescript that gives you pterodactyl level control at a easier installation and customisation level`
