@@ -6,4 +6,4 @@
 
  `An simple server management panel made in typescript that gives you petrodactyl level control at a easier installation and customisation level`
 
- our official website [Airlinklabs](https://airlinklabs.github.io/home) and our [Discord](https://discord.gg/ywzFKVr3Yb)
+ our official website [Airlinklabs](https://airlinklabs.xyz/docs/quick-start/) and our [Discord](https://discord.gg/ywzFKVr3Yb)
