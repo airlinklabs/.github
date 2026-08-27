@@ -1,9 +1,3 @@
-<img src="https://github.com/user-attachments/assets/1eab5a63-f9a6-4338-bdb1-be4d4ac55561" align="left" width="100"/>
- 
 
- 
-### **Airlink Labs**
+<img width="2560" height="1440" alt="Airlink" src="https://github.com/user-attachments/assets/223fd426-202b-43cc-803f-1d740f9dac90" />
 
- `An simple server management panel made in typescript that gives you petrodactyl level control at a easier installation and customisation level`
-
- our official website [Airlinklabs](https://airlinklabs.xyz/docs/quick-start/) and our [Discord](https://discord.gg/ywzFKVr3Yb)
